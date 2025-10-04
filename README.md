@@ -13,7 +13,7 @@ Software Engineer with 2.5 years of full-stack development experience in Java (S
 ## Proof Of Work
 
 ### Projects
-- solopreneurstation.com (In Progress)
+- trendmaihai.com (In Progress)
 
 ### Open Source Contributions (GitHub Stars > 5k)
 - phpMyAdmin | php, JavaScript, TypeScript, Docker
@@ -46,6 +46,10 @@ Software Engineer with 2.5 years of full-stack development experience in Java (S
   - Fixed Issue #6280 : Builtin math: XOR operator is left-associative.
   - Pull Request: fish-shell/fish-shell/pull/6314
 
+- chatwoot/docs | MDX
+  - Fixed Issue #191 : Update ruby versions across different environment setup pages.
+  - Pull Request: chatwoot/docs/pull/192
+
 ----
 
 ## Previously
@@ -54,8 +58,3 @@ TCS Ltd. (Feb 2020 - Oct 2022) (2 Years 8 Months)
 - Developed more than dozens of common core libraries and components for boosting developement time and reusability
 - Actively reviewed code going to production
 - Developed bonds with juniors by proper mentoring them and in turn learning few leadership skills (though I want to be async team lead)
-
-
-chatwoot/docs | MDX
-• Fixed Issue #191 : Update ruby versions across different environment setup pages.
-∗ Pull Request: chatwoot/docs/pull/192
