@@ -10,12 +10,12 @@ Software Engineer with 2.5 years of full-stack development experience in Java (S
 
 ----
 
-#### Proof Of Work
+## Proof Of Work
 
-##### Projects
+### Projects
 - solopreneurstation.com (In Progress)
 
-##### Open Source Contributions (GitHub Stars > 5k)
+### Open Source Contributions (GitHub Stars > 5k)
 - phpMyAdmin | php, JavaScript, TypeScript, Docker
   - Fixed Issue #15127 : [UI] Horrible white square
   - Pull Request: phpmyadmin/phpmyadmin/pull/15493
@@ -48,7 +48,7 @@ Software Engineer with 2.5 years of full-stack development experience in Java (S
 
 ----
 
-#### Previously
+## Previously
 TCS Ltd. (Feb 2020 - Oct 2022) (2 Years 8 Months)
 - Handled end to end delivery of more than 15 services working in team as well as indivisually
 - Developed more than dozens of common core libraries and components for boosting developement time and reusability
