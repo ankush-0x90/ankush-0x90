@@ -2,7 +2,9 @@
 
 I am open to work! | Remote Preferrable 
 <br/>
-[Book Quick Call!](https://cal.com/ankush-0x90/hiring-call?duration=30) | [Resume](https://drive.google.com/file/d/175LaVQCFLw7avfcWGF1AOPJk0ibMr_LN/view?usp=sharing)
+<a href="http://example.com/](https://cal.com/ankush-0x90/hiring-call?duration=30)" target="_blank">Book Quick Call!</a> | 
+<a href="https://drive.google.com/file/d/175LaVQCFLw7avfcWGF1AOPJk0ibMr_LN/view?usp=sharing">Resume</a>
+
 
 Software Engineer with 2.5 years of full-stack development experience in Java (Sping Boot, Microservices) and JavaScript (ReactJS, NextJS, NodeJS, NestJS).
 
