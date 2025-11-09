@@ -1,15 +1,19 @@
 ## Hi there 👋 I am Ankush! 
 
 Experienced Software Engineer 
+
 Java (Spring Boot) | JavaScript (React, Next, NodeJs, NestJs) | Docker
 
 Currently Mastering K8S
-<a href="https://cal.com/ankush-0x90/hiring-call?duration=30" target="_blank">Book Quick Call!</a> | 
+
+Be better than yesterday!
+
+Open for any discussion on chess, cricket, and code : <a href="https://cal.com/ankush-0x90/hiring-call?duration=30" target="_blank">Book Quick Call!</a> 
 
 
 ----
 
-### Open Source Contributions (GitHub Stars > 5k)
+#### Few of My Open Source Contributions :
 
 - phpMyAdmin | php, JavaScript, TypeScript, Docker
   - Fixed Issue #15127 : [UI] Horrible white square: phpmyadmin/phpmyadmin/pull/15493
@@ -26,13 +30,4 @@ Currently Mastering K8S
 - fish-shell | cpp, rust
   - Fixed Issue #6280 : Builtin math: XOR operator is left-associative: fish-shell/fish-shell/pull/6314
 
-- chatwoot/docs | MDX
-
-----
-
-## Previously
-TCS Ltd. (Feb 2020 - Oct 2022) (2 Years 8 Months)
-- Handled end to end delivery of more than 15 services working in team as well as indivisually
-- Developed more than dozens of common core libraries and components for boosting developement time and reusability
-- Actively reviewed code going to production
-- Developed bonds with juniors by proper mentoring them and in turn learning few leadership skills (though I want to be async team lead)
+---
