@@ -8,7 +8,7 @@ Currently Mastering K8S
 
 Be better than yesterday!
 
-Open for any discussion on chess, cricket, and code : <a href="https://cal.com/ankush-0x90/hiring-call?duration=30" target="_blank">Book Quick Call!</a> 
+Open for any discussion on chess, cricket, or/and code : <a href="https://cal.com/ankush-0x90/hiring-call?duration=30" target="_blank">Book Quick Call!</a> 
 
 
 ----
