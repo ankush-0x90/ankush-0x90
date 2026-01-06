@@ -10,6 +10,7 @@ Java (Spring Boot) | JavaScript (React, Next, NodeJs, NestJs) | React Native (Ex
 #### Projects
 
 - Ruprekha (Minimalistic Canva designed for Specific Indian Consumers)
+  - <a href="https://ruprekha.innersquare.agency" target="_blank">Landing Paeg</a>
   - Good UI and UX
   - Extensible code to integrate templates
   - Localisation (i18n) for Indian languages
