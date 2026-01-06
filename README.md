@@ -1,14 +1,19 @@
 ## Hi there 👋 I am Ankush! 
 
-Experienced Software Engineer 
+2Y7M Experienced Software Engineer (Looking For A Job) (<a href="mailto:work.ankushpatil@gmail.com">work.ankushpatil@gmail.com</a>)
 
-Java (Spring Boot) | JavaScript (React, Next, NodeJs, NestJs) | Docker
+Java (Spring Boot) | JavaScript (React, Next, NodeJs, NestJs) | React Native (Expo) | Docker | K8S
 
-Currently Mastering K8S
 
-Be better than yesterday!
+----
 
-Open for any discussion on chess, cricket, or/and code : <a href="https://cal.com/ankush-0x90/hiring-call?duration=30" target="_blank">Book Quick Call!</a> 
+#### Projects
+
+- Ruprekha (Minimalistic Canva designed for Specific Indian Consumers)
+  - Good UI and UX
+  - Extensible code to integrate templates
+  - Localisation (i18n) for Indian languages
+  - Select and edit editor to generate dynamic pre style pdfs
 
 
 ----
