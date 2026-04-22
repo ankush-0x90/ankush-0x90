@@ -1,9 +1,9 @@
 ## Hey! 👋 I am Ankush! 
 
-2Y7M Experienced Software Engineer 
+3 Years Experienced Software Engineer 
 (**Looking For A Job**) (<a href="mailto:work.ankushpatil@gmail.com">work.ankushpatil@gmail.com</a>)
 
-Java (Spring Boot) | JavaScript (React, Next, NodeJs, NestJs) | React Native (Expo) | Docker | K8S
+Java (Spring Boot) | JavaScript (React, Next, NodeJs, NestJs) | React Native (Expo) | Docker | K8S | Terraform | AWS | AI
 
 
 ----
