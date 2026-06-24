@@ -1,40 +1,38 @@
-## Hey! 👋 I am Ankush! 
+## Ankush | Software Engineer
+**Email :** [work.ankushpatil@gmail.com](mailto:work.ankushpatil@gmail.com)
 
-3 Years Experienced Software Engineer 
-(**Hire Me**) (<a href="mailto:work.ankushpatil@gmail.com">work.ankushpatil@gmail.com</a>)
+### Professional Summary
+Results-driven Software Engineer with 3 years of experience designing scalable applications, optimizing cloud infrastructure, and integrating cutting-edge AI technologies. 
+Demonstrated expertise in full-stack development across modern Java, JavaScript, and Python ecosystems. 
+Adept at bridging the gap between robust backend architecture, intuitive user interfaces, and agentic AI systems to deliver high-performance, future-proof solutions.
 
-Java (Spring Boot) | JavaScript (React, Next, NodeJs, NestJs) | React Native (Expo) | Docker | K8S | Terraform | AWS | AI
+### Technical Arsenal
 
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, JavaScript, TypeScript, Python, C++, Rust, PHP |
+| **Backend & APIs** | Spring Boot, Node.js, NestJS, FastAPI |
+| **Frontend & Mobile** | React, Next.js, React Native (Expo) |
+| **AI & LLMs** | LangChain, LangGraph, CrewAI, LLM Integrations |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes (K8s), Terraform |
 
-----
+### Open Source Contributions
 
-#### Projects
+**[phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin)**
+* Fixed [UI] Horrible white square ([PR #15493](https://github.com/phpmyadmin/phpmyadmin/pull/15493))
+* Resolved Spatial Data rendering issues in MySQL 8 ([PR #16077](https://github.com/phpmyadmin/phpmyadmin/pull/16077))
+* Patched Search IN(...) Clause to permit multiple values ([PR #16088](https://github.com/phpmyadmin/phpmyadmin/pull/16088))
+* Corrected French login form misalignment ([PR #16066](https://github.com/phpmyadmin/phpmyadmin/pull/16066))
+* Increased auto-increment field size limits ([PR #15294](https://github.com/phpmyadmin/phpmyadmin/pull/15294))
+* Made the year editable in the timestamp input form ([PR #16231](https://github.com/phpmyadmin/phpmyadmin/pull/16231))
+* Fixed page number URL updating after saving a designer’s page ([PR #15464](https://github.com/phpmyadmin/phpmyadmin/pull/15464))
 
-- Ruprekha (Minimalistic Canva designed for Specific Indian Consumers)
-  - <a href="https://ruprekha.innersquare.agency" target="_blank">Landing Paeg</a>
-  - Good UI and UX
-  - Extensible code to integrate templates
-  - Localisation (i18n) for Indian languages
-  - Select and edit editor to generate dynamic pre style pdfs
+**[ToolJet](https://github.com/ToolJet/ToolJet)**
+* Fixed logic bug allowing the same application to be added to a folder multiple times ([PR #2961](https://github.com/ToolJet/ToolJet/pull/2961))
 
-
-----
-
-#### Few of My Open Source Contributions :
-
-- phpMyAdmin | php, JavaScript, TypeScript, Docker
-  - Fixed Issue #15127 : [UI] Horrible white square: phpmyadmin/phpmyadmin/pull/15493
-  - Fixed Issue #16012 : Spatial Data does not render correctly in MySQL 8: phpmyadmin/phpmyadmin/pull/16077
-  - Fixed Issue #16041 : Search IN(...) Clause does not not permit multiple values: phpmyadmin/phpmyadmin/pull/16088
-  - Fixed Issue #16050 : [5.1] French login form misaligned: phpmyadmin/phpmyadmin/pull/16066
-  - Fixed Issue #15287 : auto increment field is too small: phpmyadmin/phpmyadmin/pull/15294
-  - Fixed Issue #16172 : make the year editable in input form for timestamp: phpmyadmin/phpmyadmin/pull/16231
-  - Fixed Issue #15440 : Page number is not being updated in the URL after saving a designer’s page: phpmyadmin/phpmyadmin/pull/15464
-
-- ToolJet | TypeScript, NestJs, ReactJs
-  - Fixed Issue #2916 : Able to add the same application in a folder multiple times: ToolJet/ToolJet/pull/2961
-
-- fish-shell | cpp, rust
-  - Fixed Issue #6280 : Builtin math: XOR operator is left-associative: fish-shell/fish-shell/pull/6314
+**[fish-shell](https://github.com/fish-shell/fish-shell)**
+* Corrected Builtin math XOR operator to be left-associative ([PR #6314](https://github.com/fish-shell/fish-shell/pull/6314))
 
 ---
+
+Thank you for taking the time to review my profile and open-source work. I am eager to bring my diverse technical background to a forward-thinking team. Let's connect!
